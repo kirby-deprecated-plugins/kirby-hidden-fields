@@ -1,0 +1,8 @@
+{
+  "name": "kirby-hidden-fields",
+  "description": "Hidden fields field for Kirby CMS Panel",
+  "author": "Jens Törnell <jens.tornell@gmail.com>",
+  "version": "0.1",
+  "type": "kirby-plugin",
+  "license": "MIT"
+}

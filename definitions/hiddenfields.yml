@@ -1,0 +1,10 @@
+type: structure
+modalsize: small
+style: table
+label: Hidden fields
+limit: 1
+fields:
+  street:
+    label: Hidden fields
+    type: hiddenfields
+    columns: 1
